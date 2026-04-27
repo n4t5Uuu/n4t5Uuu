@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>PlateMate — a project management tool built specifically for architects and architecture students to track revisions, manage plates, and collaborate in one place.<br>👯 I'm looking to collaborate on<br>Projects where we can both grow — I'm always open to working with developers who want to build something meaningful together and level up along the way.<br>🤝 I'm looking for help with<br>Nothing at the moment — but always open to feedback!<br>🌱 I'm currently learning<br>Cloud infrastructure, containerization (Docker, Kubernetes), and how to build and deploy apps that scale.<br>💬 Ask me about<br>Web development, building with Next.js and Supabase, database design, or anything about PlateMate.<br>⚡ Fun fact<br>I'm probably at my keyboard right now. Coding isn't just what I do — it's what I enjoy.
+I like coding
 
 
 ## 🌐 Socials:
